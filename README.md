@@ -2,6 +2,8 @@
 
 A condensed, AI-assisted method for going from a raw idea to a tested prototype in less than 2 days.
 
+Created by Joseph Lomonaco.
+
 ---
 
 ## What is this?
