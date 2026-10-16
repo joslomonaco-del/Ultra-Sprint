@@ -39,4 +39,4 @@ This method is a living document. If you've run an Ultra Sprint and want to prop
 
 ## License
 
-The Ultra Sprint is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You are free to share, adapt, and build upon it for any purpose, including commercial use, as long as you give appropriate credit.
+The Ultra Sprint is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You are free to share, adapt, and build upon it for any purpose, including commercial use, as long as you give appropriate credit. For easily and appropriately giving credit, you can copy and paste the following text: The Ultra Sprint by Joseph Lomonaco, licensed under CC BY 4.0: https://github.com/joslomonaco-del/Ultra-Sprint 
