@@ -2,6 +2,8 @@
 
 The Ultra Sprint is a living method. If you've run a sprint and found something that could be improved, or if you spot a gap in the guide, contributions are welcome.
 
+Issues and pull requests are reviewed once a month.
+
 ---
 
 ## Ways to contribute
